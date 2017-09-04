@@ -1,3 +1,9 @@
+/*Extra*/
+.input-group-btn {
+  display: inherit;
+}
+/*end*/
+
 #page-preloader {
     position: fixed;
     left: 0;
