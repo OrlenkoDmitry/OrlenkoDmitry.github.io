@@ -37,6 +37,10 @@
     min-height:165px;
 }
 
+.caption .itemButton .btn-primary {
+  margin-right: 5px;
+}
+
 
 
 .book-list figure {
@@ -251,11 +255,18 @@
 .total-user-checkout{
     margin-right: 20px;
     margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
 }
 .btn-user-checkout .btn{
     margin-bottom: 10px;
     width: 100%;
 }
+
+.btn .glyphicon {
+  margin-right: 5px;
+}
+
 .item-checout .delete-cart{
     display: block;
     margin: 0 auto;
@@ -408,7 +419,7 @@ nav.navbar-inverse .navbar-nav>li>a:hover,nav.navbar-inverse .navbar-nav>li>a.Ac
 }
 
 .caption {
-    height: 130px;
+    /*height: 130px;*/
     overflow: hidden;
 }
 
@@ -417,7 +428,7 @@ nav.navbar-inverse .navbar-nav>li>a:hover,nav.navbar-inverse .navbar-nav>li>a.Ac
 }
 
 .thumbnail img {
-    /* width: 100%;*/
+    width: 100%;
     display:inline-block !important;
 }
 
