@@ -49,6 +49,10 @@ p {
     background-color: #f05f40
 }
 
+.bg-gray {
+    background-color: #F5F5F5;
+}
+
 .bg-dark {
     background-color: #222;
     color: #fff
@@ -161,7 +165,7 @@ header .header-content .header-content-inner p {
 .portfolio-box {
     position: relative;
     display: block;
-    margin: 0 auto
+    margin: 10px auto;
 }
 
 .portfolio-box .portfolio-box-caption {
